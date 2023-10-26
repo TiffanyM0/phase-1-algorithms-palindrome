@@ -22,6 +22,9 @@ function stringCheck(word) {
 
 /* 
   Add your pseudocode here
+  
+  check the character at opposite sides
+  word => compare w == d;
   write a function that 
   iterate over the string,front and backwards
   boolean check for the both
